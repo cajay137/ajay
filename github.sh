@@ -1,3 +1,2 @@
-sudo apt install stress 
-sleep 20
-stress --cpu 80
+sudo apt-get update
+sudo apt-get install nginx -y
